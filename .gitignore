@@ -2,3 +2,5 @@
 src/__pycache__/*
 src/flaskblog/__pycache__/*
 src/flaskblog/site.db
+src/flaskblog/static/profile_pics/*
+!src/flaskblog/static/profile_pics/default.jpg
