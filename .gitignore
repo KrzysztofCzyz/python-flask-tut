@@ -4,3 +4,6 @@ src/flaskblog/__pycache__/*
 src/flaskblog/site.db
 src/flaskblog/static/profile_pics/*
 !src/flaskblog/static/profile_pics/default.jpg
+src/flaskblog/main/__pycache__/*
+src/flaskblog/posts/__pycache__/
+src/flaskblog/users/__pycache__/
