@@ -7,3 +7,4 @@ src/flaskblog/static/profile_pics/*
 src/flaskblog/main/__pycache__/*
 src/flaskblog/posts/__pycache__/
 src/flaskblog/users/__pycache__/
+src/flaskblog/errors/__pycache__/
